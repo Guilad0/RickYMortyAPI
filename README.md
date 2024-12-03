@@ -1,0 +1,2 @@
+# RickYMortyAPI
+Vue-RickYMorty API
